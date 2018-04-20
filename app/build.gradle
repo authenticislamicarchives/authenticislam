@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "abdulbasith.authenticislam"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 5
+        versionName "2.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    repositories {
+        maven {
+            url 'https://dl.bintray.com/ayz4sci/maven/'
+        }
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.ayz4sci.androidfactory:downloadprogress:1.0.1'
+    compile "com.google.firebase:firebase-database:10.2.6"
+}
+
+apply plugin: 'com.google.gms.google-services'
+

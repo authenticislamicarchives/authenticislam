@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_aqeedah"
+            android:icon="@mipmap/ic_favorite_black_24dp"
+            android:title="@string/menu_aqeedah" />
+        <item
+            android:id="@+id/menu_quran"
+            android:icon="@mipmap/ic_book_black_24dp"
+            android:title="@string/menu_quran" />
+        <item
+            android:id="@+id/menu_hadith"
+            android:icon="@mipmap/ic_local_library_black_24dp"
+            android:title="@string/menu_hadith" />
+        <item
+            android:id="@+id/menu_history"
+            android:icon="@mipmap/ic_hourglass_empty_black_24dp"
+            android:title="@string/menu_history" />
+        <item
+            android:id="@+id/menu_other"
+            android:icon="@mipmap/ic_library_books_black_24dp"
+            android:title="@string/menu_other" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/menu_share"
+                android:icon="@mipmap/ic_share_black_24dp"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/menu_rate"
+                android:icon="@mipmap/ic_star_black_24dp"
+                android:title="@string/menu_rate" />
+            <item
+                android:id="@+id/menu_about"
+                android:icon="@mipmap/ic_info_outline_black_24dp"
+                android:title="@string/menu_about" />
+        </menu>
+    </item>
+
+</menu>

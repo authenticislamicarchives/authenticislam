@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/colorListOdd">
+
+    <TextView
+        android:id="@+id/splash_bismillah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_bismillah"
+        android:layout_alignParentTop="true"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="50dp"
+        android:paddingBottom="50dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        android:layout_below="@id/splash_bismillah"
+        android:layout_centerHorizontal="true"
+        android:foregroundGravity="center"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/splash_verse_ar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/splash_image"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="50dp" />
+
+    <TextView
+        android:id="@+id/splash_verse_en"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/splash_verse_ar"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:padding="10dp"/>
+
+    <ProgressBar
+        android:id="@+id/splash_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"/>
+
+</RelativeLayout>

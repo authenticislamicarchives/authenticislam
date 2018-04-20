@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Aqeedah section -->
+
+    <string-array name="AqeedahBooksNameArray">
+        <item>Kitab at-Tawhid</item>
+        <item>Le Livre de l\'Unicité</item>
+        <item>Les Trois Principes Fondamentaux et leurs preuves</item>
+        <item>Les Fondements de la Foi</item>
+        <item>The Foundations of Faith</item>
+        <item>Kashf ash Shubuhaat (Removal of the doubts)</item>
+        <item>Explanation of the Three Fundamental principles of Islam</item>
+        <item>The book of Eman</item>
+        <item>Sharh us-Sunnah - EN</item>
+        <item>Sharh us-Sunnah - FR</item>
+        <item>Explanation of a Summary of al Aqeedatul Hamawiyyah of Ibn Taymiyyah</item>
+        <item>Al Aqeedah Al-Wasitiyah (Principles of Islamic Faith)</item>
+        <item>Explanation of the Fundamentals of Islamic Belief</item>
+        <item>Our Belief concerning the Sahaabah</item>
+        <item>Indispensable implication of Sunnah and caution against Innovation</item>
+        <item>Explanation to the beautiful and perfect names of Allâh</item>
+        <item>The ruling concerning Mawlid an-Nabawi</item>
+        <item>Life in al-Barzakh</item>
+        <item>Are we forced or do we have free Will ?</item>
+        <item>How do we believe in the Last Day ?</item>
+        <item>Explanation of the nullifiers of Islam</item>
+        <item>Fundamental Shi\'ite beliefs</item>
+        <item>This is Islam</item>
+        <item>Book of Evidences : The Miracles of the Prophet</item>
+        <item>இஸ்லாத்தின் அடிப்படை கொள்கை</item>
+        <item>சுன்னத் வல் ஜமாஅத்தினரின் அடிப்படைக் கோள்கை</item>
+        <item>ஸுன்னத்தை கடைப்பிடிப்பதன் அவசியம்</item>
+        <item>The World of the Jinn</item>
+        <item>The Dajjal (Anti-Christ)</item>
+        <item>இஸ்லாமிய அகீதாவை எப்படி அணுகுவது</item>
+        <item>Things that nullify one\'s Islam - P1</item>
+        <item>Things that nullify one\'s Islam - P2</item>
+        <item>அல் அகீதா அஸ் ஸஹீஹா - Al Aqeedah As Saheeha</item>
+        <item>Remaining Steadfast : Istiqaamah</item>
+        <item>இஸ்திகாமா  நிலைத்தன்மை - Istiqaamah</item>
+        <item>வசனம்  102 சூரா அல்பகறா விளக்கவுரை</item>
+        <item>தஜ்ஜால் - Dajjal</item>
+        <item>மவ்லிது ஓதுவது  கூடுமா கூடாதா? - Mawlid</item>
+        <item>ஸலஃபுகளும் நவீன கொள்கைகளும் </item>
+        <item>நபித்தோழர்களும் நவீன முஃதஸிலாக்களும்</item>
+        <item>இஸ்லாம் எதிர்ப்பார்க்கும் முஸ்லீம்கள் யார் ?</item>
+        <item>ஆயத்துல் குர்ஸீ - Ayatul Kursi</item>
+        <item>கருத்து முரண்பாடுகள்   இஸ்லாமிய பார்வை</item>
+
+    </string-array>
+
+    <string-array name="AqeedahAuthorsNameArray">
+        <item>Shaykh Muhammad ibn Abdul Wahhab</item>
+        <item>Shaykh Muhammad ibn Abdul Wahhab</item>
+        <item>Shaykh Muhammad ibn Abdul Wahhab</item>
+        <item>Elite de Savants</item>
+        <item>A Committee of Scholars</item>
+        <item>Shaykh Muhammad ibn Abdul Wahhab</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Imâm Ibn Taymiyah</item>
+        <item>Imâm Al-Barbahaaree</item>
+        <item>Imâm Al-Barbahaaree</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Imâm Ibn Taymiyah</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Abdul-Muhsin Al-Abbad</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Abu Abdu-r-Rahman Nasir as-Sa\'di</item>
+        <item>Shaykh Salih ibn Fawzan ibn al-Fawzan</item>
+        <item>Shaykh Muhammad Mustafa al-Jibaly</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Muhammad ibn Abdul Wahhab</item>
+        <item>Abdullah ibn Muhammad as-Salafi</item>
+        <item>Shaykh Saleh ibn Abdul Aziz Al-Shaykh</item>
+        <item>Imâm Ibn Kathir</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Mubarak Mas\'ud Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Umar Sheriff</item>
+        <item>Shaykh Umar Sheriff</item>
+        <item>Shaykh Umar Sheriff</item>
+        <item>Shaykh Umar Sheriff</item>
+        <item>Shaykh AbdulQadir Madani</item>
+        <item>Shaykh AbdulQadir Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Ismail Salafi</item>
+    </string-array>
+
+    <string-array name="AqeedahPublishingHouseNameArray">
+        <item>al-aqeedah.com</item>
+        <item>Edition Anas</item>
+        <item>IslamHouse</item>
+        <item>Ministère des Affaires Islamiques, KSA</item>
+        <item>Ministry of Islamic Affairs, KSA</item>
+        <item>al-aqeedah.com</item>
+        <item></item>
+        <item>Al-Firdous</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Iqra International Educational Foundation</item>
+        <item>IslamHouse</item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>Quran Sunnah Educational Programs</item>
+        <item>Al-Kitaab &amp; as-Sunnah Publishing</item>
+        <item>Quran Sunnah Educational Programs</item>
+        <item>Quran Sunnah Educational Programs</item>
+        <item>Al Ibaanah</item>
+        <item></item>
+        <item>Ministry of Islamic Affairs, KSA</item>
+        <item>Dar Al-Ghad</item>
+        <item>IslamHouse</item>
+        <item>IslamHouse</item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array  formatted="false" name="AqeedahLinksArray">
+        <item>https://drive.google.com/uc?export=download&amp;id=0B5cjNIxS91qkQ3FjX0JhT3FGc2c</item>
+        <item>https://www.dropbox.com/s/cla1sehd4einj9a/Kitabu-At-Tawhid_fr.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/id1v3sob0csyhdb/fr_Proves_of_the_Fundamentals_Followed_by_the_Four_Principals.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/zp5u8fj3eijll7u/fr_les_Fondements_de_la_foi_a_la_lumiere_du_coran_et_de_la_sunnah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/ysx6ok2g89waplu/en_Foundations_of_Faith.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/dd4qcs70k5j9du7/kashf%20ash-shubuhaat%20by%20sheikh%20ul-islam%20muhammad%20ibn%20abdul%20wahhaab.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/l9btxmovpgriv3p/Explanation%20of%20the%20Three%20Fundamental%20Principles%20of%20Islaam.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/a85f9e6wtsn6uwh/Book%20of%20Emaan.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/d5xnmcbdalyaq0f/English-Barbaharee.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/iddyo67k1ljo4we/Sharh-As-Sunna-lil-Imam-al-Barbahari.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/8alzuxq2x0huruq/explanation_of_a_summary_of_aqeedat_hamawiyyah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/asfdby7o60214r0/Aqeedah_al-Wasitiyyah_-_Ibn_Taymiyyah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/zx97haajpvw1ylp/the-explanation-of-the-fundamentals-of-islamic-belief.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/czoxhyn8o1i8chv/our-belief-concerning-the-sahabah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/w2dbuno8nzeb78r/Obligation_of_Adhering_to_the_Sunnah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/4f303lmygmn2km6/Explanation%20to%20the%20Beautiful%20and%20Perfect%20Names%20of%20Allah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/1h276338ql23sqb/Mawlid%20an-Nabawi.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/uw8wzr3wfnh0kf2/Life%20in%20al-Barzakh.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/c507d7skt739atq/areWeForced.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/3o60xw2k8cjagru/believeLastDay.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/wdupqkcvr6ea8l7/Explanation%20of%20the%20Nullifiers%20of%20Islaam%20-%20Imaam%20Muhammad%20bin%20%27Abdil-Wahhaab.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/brno208qd0orvu6/Fundamental_Shiite_Beliefs.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/z250i2jkm4fcyih/en_This_is_Islam.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/j5gnrq51n989i3r/en_Book_Of_Evidences_Ibn_Kathir.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/e1mvkgq6xd5r7tu/ta_sharh_osol_eman.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/0qevt6e9q1knk7l/ta_3akeda_ahl_sonnah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/g1m2a45crh71vsa/ta_eltamask_be_elsunnah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/wgx9mmbtcsiegiu/world%20of%20jinn.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/xr47d7mir50a0vn/The%20DAJJAL%20%28Anti-Christ%29%20-%20Beware%20of%20his%20trials%20%20Ustadh%20Muhammad%20Tim%20Humble.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/49yrigivp80ulcq/%E0%AE%87%E0%AE%B8%E0%AF%8D%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%AF_%E0%AE%85%E0%AE%95%E0%AF%80%E0%AE%A4%E0%AE%BE-%E0%AE%B5%E0%AF%88_%E0%AE%8E%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF_%E0%AE%85%E0%AE%A3%E0%AF%81%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AE%A4%E0%AF%81-Islamkalvi.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/sxaga8kpvgzlhzt/things_are_nullify_islam-1.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/lagqvp4pjmm7wct/things_are_nullify_islam-2.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/8mkiwdbyqor4h8c/%E0%AE%85%E0%AE%B2%E0%AF%8D-%E0%AE%85%E0%AE%95%E0%AF%80%E0%AE%A4%E0%AE%BE_%E0%AE%85%E0%AE%B8%E0%AF%8D-%E0%AE%B8%E0%AE%B9%E0%AF%80%E0%AE%B9%E0%AE%BE-Islamkalvi.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/20c71ku0aixw02r/Remaining%20Steadfast%20%20Istiqaamah%20%20Muhammad%20Tim%20Humble.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/auv4knupyc96uq0/%E0%AE%87%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%BE%E0%AE%AE%E0%AE%BE%20%20%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%88.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/5bkwuu1ymq4261i/%E0%AE%B5%E0%AE%9A%E0%AE%A9%E0%AE%AE%E0%AF%8D%20%20102%20%E0%AE%9A%E0%AF%82%E0%AE%B0%E0%AE%BE%20%E0%AE%85%E0%AE%B2%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%B1%E0%AE%BE%20%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B5%E0%AF%81%E0%AE%B0%E0%AF%88%20%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%AE%E0%AF%8D%2010.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/9b92oavy5l1i6xf/%E0%AE%A4%E0%AE%9C%E0%AF%8D%E0%AE%9C%E0%AE%BE%E0%AE%B2%E0%AF%8D%2007%2002%202014.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/w2vl8f39xitwq0m/%E0%AE%AE%E0%AE%B5%E0%AF%8D%E0%AE%B2%E0%AE%BF%E0%AE%A4%E0%AF%81%20%E0%AE%93%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%A4%E0%AF%81%20%20%E0%AE%95%E0%AF%82%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AE%BE%20%E0%AE%95%E0%AF%82%E0%AE%9F%E0%AE%BE%E0%AE%A4%E0%AE%BE.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/xdu1v32otltbwvw/%E0%AE%B8%E0%AE%B2%E0%AE%83%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%A8%E0%AE%B5%E0%AF%80%E0%AE%A9%20%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%AE%E0%AF%8D.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/8qg2do2n8ql260g/%E0%AE%A8%E0%AE%AA%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B4%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%A8%E0%AE%B5%E0%AF%80%E0%AE%A9%20%E0%AE%AE%E0%AF%81%E0%AE%83%E0%AE%A4%E0%AE%B8%E0%AE%BF%E0%AE%B2%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%AE%E0%AF%8D%20jaqhinfo.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/8eqvbeuhdabv0sl/%E0%AE%87%E0%AE%B8%E0%AF%8D%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AF%8D%20%E0%AE%8E%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%AE%E0%AF%81%E0%AE%B8%E0%AF%8D%E0%AE%B2%E0%AF%80%E0%AE%AE%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/brwf3k3fyup15fm/%E0%AE%86%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B2%E0%AF%8D%20%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%80.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/thev2pvb4vaixlp/%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%20%E0%AE%AE%E0%AF%81%E0%AE%B0%E0%AE%A3%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%20%20%E0%AE%87%E0%AE%B8%E0%AF%8D%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%AF%20%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%88.mp3?dl=1</item>
+
+    </string-array>
+
+    <string-array name="AqeedahLanguageArray">
+        <item>EN</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+    </string-array>
+
+<string-array name="AqeedahTypeArray">
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+    </string-array>
+
+
+</resources>

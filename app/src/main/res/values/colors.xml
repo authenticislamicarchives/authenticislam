@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e707a</color>
+    <color name="colorPrimaryDark">#0c4551</color>
+    <color name="colorListOdd">#fbefdf</color>
+    <color name="colorListEven">#c8bcac</color>
+    <color name="colorGradientEnd">#1f383d</color>
+    <color name="colorGradientCenter">#3e707a</color>
+    <color name="colorGradientStart">#8ba9af</color>
+    <color name="colorGreyBtn">#555555</color>
+    <color name="colorLang">#99A8A0</color>
+    <color name="colorBackGround">#d8e2e4</color>
+    <color name="colorOpenFile">#76847c</color>
+    <color name="colorDeleteFile">#9C8484</color>
+</resources>

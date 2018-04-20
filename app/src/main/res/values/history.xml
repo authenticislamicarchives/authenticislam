@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="IslamicHistoryBooksNameArray">
+        <item>Stories of the Prophets</item>
+        <item>Zaad al-Maad</item>
+        <item>Les enseignements tirés du récit de Luqman le sage</item>
+        <item>Stories of the Quran</item>
+        <item>Le mérite de la Mère des croyants \'Aïcha  رضي الله عنه</item>
+        <item>Ar Raheeq al Makhtoum - The Sealed Nectar</item>
+        <item>Ar Raheeq al Makhtoum</item>
+        <item>The legacy of the Prophet</item>
+        <item>Eman Booster : Story of the Salafs</item>
+        <item>ஸலபுகளின் வாழ்கை தரும் படிப்பினை - ஹஸன் பஸரி</item>
+        <item>அன்னை ஆயிஷா - The mother of the believers Aysha  رضي الله عنه</item>
+        <item>அல்குர்ஆனில் மர்யம் - Maryam in Al Quran</item>
+        <item>ஷியாக்கள் வரலாற்றுப்பார்வை - History of Shias - P1</item>
+        <item>ஷியாக்கள் வரலாற்றுப்பார்வை - History of Shias - P2</item>
+        <item>வரலாற்றை முறையாகக் கற்போம்</item>
+        <item>உஸ்மான்  رضي الله عنه அவர்களின் வரலாறு தரும் படிப்பினை</item>
+        <item>நபி ஸல் அவர்களின் வாழ்வில் மூன்று இரவுகள்</item>
+    </string-array>
+
+    <string-array name="IslamicHistoryAuthorsNameArray">
+        <item>Imâm Ibn Katheer</item>
+        <item>Imâm Ibn Qayyim al-Jawziyyah</item>
+        <item>Shaykh AbdurRazzaq al-Badr</item>
+        <item>Imâm Ibn Katheer</item>
+        <item>Shaykh AbdAllah Al Bukhari</item>
+        <item>Shaykh Safiur Rahman Mubarakpuri</item>
+        <item>Shaykh Safiur Rahman Mubarakpuri</item>
+        <item>Imam Ibn Rajab al hanbali</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Umar Sheriff</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Ismail Salafi</item>
+        <item>Shaykh AbdulQadir Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+    </string-array>
+
+    <string-array name="IslamicHistoryPublishingHouseNameArray">
+        <item>AhleSunnah Library</item>
+        <item></item>
+        <item>IslamHouse</item>
+        <item>Dar Al-Manarah</item>
+        <item></item>
+        <item></item>
+        <item>Darul Huda</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array  formatted="false" name="IslamicHistoryLinksArray">
+        <item>https://www.dropbox.com/s/jghh0cbxvxbn2hc/StoriesOfTheProphetsByIbnKathir.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/10qiyb13qrcb1lx/Zaad%20al-Maad.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/1ptbzghr41m7n69/fr_Islamhouse_Luqman_AlBadr.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/624xb17umiyvl54/stories_of_the_quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/b121eja2dwgfv5m/Le%20m%C3%A9rite%20de%20la%20m%C3%A8re%20des%20croyants%20Aicha.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/76uka0tm06ymbls/The%20Sealed%20Nectar%20-%20Dawahmemo.com.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/nlfmcsef1abeq4h/History_of_Prophet_Ar-Raheeq_inTAMIL.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/g78ayac40af90fy/the-legacy-of-the-prophet.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/94bl7o9u7jonzqm/Story%20of%20the%20salafs.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/h6ircjpdpvo878n/HasanAlBasri.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/f5fyk8ojhlnldsv/%E0%AE%85%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88%20%E0%AE%86%E0%AE%AF%E0%AE%BF%E0%AE%B7%E0%AE%BE%20%28%E0%AE%B0%E0%AE%B4%E0%AE%BF%29.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/0v9f1myd1qklxsw/%E0%AE%85%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AF%8D%E0%AE%86%E0%AE%A9%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%AE%E0%AF%8D.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/tvkaqaz1u4ja376/%E0%AE%B7%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%88%20-%20History%20of%20Shias%20-%20P1.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/eruksm8m71cn98b/%E0%AE%B7%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%88%20-%20History%20of%20Shias%20-%20P2.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/weadsqw7963tqr1/%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%88%20%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%AE%E0%AF%8D.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/x5oien8eimq5m45/%E0%AE%89%E0%AE%B8%E0%AF%8D%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AF%8D%20%28%E0%AE%B0%E0%AE%B4%E0%AE%BF%29%20%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D%20%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81%20%E0%AE%A4%E0%AE%B0%E0%AF%81%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%88%21.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/n7lcjuoo2dwyt6i/%E0%AE%A8%E0%AE%AA%E0%AE%BF%20%E0%AE%B8%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D%20%E0%AE%B5%E0%AE%BE%E0%AE%B4%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%AE%E0%AF%82%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81%20%E0%AE%87%E0%AE%B0%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D%20%20%20%E0%AE%AE%E0%AF%86%E0%AE%B3%E0%AE%B2%E0%AE%B5%E0%AE%BF%20%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%AE%E0%AE%A4%E0%AE%A9%E0%AE%BF%20%28%E0%AE%87%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%29.mp3?dl=1</item>
+    </string-array>
+
+    <string-array name="IslamicHistoryLanguageArray">
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+        <item>TA</item>
+    </string-array>
+
+
+    <string-array name="IslamicHistoryTypeArray">
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+    </string-array>
+
+
+</resources>

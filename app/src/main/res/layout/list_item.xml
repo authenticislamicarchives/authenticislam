@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_layout"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/list_image"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/list_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/list_image"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:textSize="16sp"/>
+
+
+    <TextView
+        android:id="@+id/list_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/list_image"
+        android:layout_below="@+id/list_title"
+        android:padding="5dp"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/list_publish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/list_image"
+        android:layout_below="@+id/list_author"
+        android:textStyle="italic"
+        android:padding="5dp"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/list_lang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/list_publish"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:layout_alignParentRight="true"
+        android:textColor="@android:color/white"
+        android:background="@drawable/shape_lang"/>
+
+    <ImageView
+        android:id="@+id/list_button_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/list_image"
+        android:layout_below="@+id/list_lang"
+        android:src="@mipmap/ic_cloud_download_black_24dp"
+        android:background="@android:color/transparent"
+        android:padding="5dp"
+        android:tint="@color/colorGreyBtn"/>
+
+    <com.ayz4sci.androidfactory.DownloadProgressView
+        android:id="@+id/downloadProgressView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/list_lang"
+        android:layout_toRightOf="@+id/list_button_download"/>
+
+    <ImageView
+        android:id="@+id/list_button_open"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/list_image"
+        android:layout_below="@+id/list_lang"
+        android:visibility="gone"
+        android:background="@android:color/transparent"
+        android:tint="@color/colorOpenFile"
+        android:padding="5dp"/>
+
+    <ImageView
+        android:id="@+id/list_button_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/list_lang"
+        android:src="@mipmap/ic_delete_black_24dp"
+        android:background="@android:color/transparent"
+        android:tint="@color/colorDeleteFile"
+        android:visibility="gone"
+        android:padding="5dp"/>
+
+
+
+
+
+</RelativeLayout>

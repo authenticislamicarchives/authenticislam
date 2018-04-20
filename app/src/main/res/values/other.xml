@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="OtherNameArray">
+        <item>Fortification of the Muslim through remembrance and supplication from the Qur\'aan and the Sunnah</item>
+        <item>La citadelle du musulman</item>
+        <item>Hisnul Muslim</item>
+        <item>The Etiquette of Seeking Knowledge</item>
+        <item>The Prayer of the Prophet Described</item>
+        <item>La description de la prière du Prophète</item>
+        <item>Lois concernant les femmes croyantes</item>
+        <item>Le rang de la femme en Islam</item>
+        <item>Conseils précieux à nos frères Tabligh (Jama\'at Tabligh)</item>
+        <item>Diseases of the Hearts &amp; their Cures</item>
+        <item>The devil\'s deceptions</item>
+        <item>The Ruling on Magic and Fortunetelling</item>
+        <item>The foundations of the knowledge of Usul</item>
+        <item>The Book of Zakaah</item>
+        <item>The Chennai treatise on annual payment of Zakaah</item>
+        <item>Warning against Riba (Usury) transactions</item>
+        <item>The beard between the Salaf &amp; Khalaf</item>
+        <item>The etiquettes of Marriage &amp; Wedding</item>
+        <item>The night Prayer in Ramadaan</item>
+        <item>The Fataawaa of Shaikh al-Albaanee</item>
+        <item>The Ill-Effects of Sins</item>
+        <item>Les leçons importantes pour toute la communauté</item>
+        <item>Comment se faire expier les péchés ?</item>
+        <item>The most Excellent manner of Seeking Forgiveness</item>
+        <item>Characteristics of the Hypocrites</item>
+        <item>The Funeral Rites</item>
+        <item>Disciplining the soul</item>
+        <item>La valeur de la prière en Islam</item>
+        <item>Fatwas importantes sur la prière</item>
+        <item>La fitnah du Takfir</item>
+        <item>The ISIS Papers</item>
+        <item>Seeds of Admonishment and Reform</item>
+        <item>Sincere counsel to the seekers of sacred knowledge</item>
+        <item>Advice on establishing an Islamic Home</item>
+        <item>The manners of the knowledge seeker</item>
+        <item>The obligation of Hijrah from the lands of Shirk and Kufr</item>
+        <item>Az Zuhd</item>
+        <item>The Dreamer\'s Handbook</item>
+        <item>Al Ghurabah : The Strangers</item>
+        <item>Waswasah : The Whispering of the Shaitan</item>
+        <item>Dhikr and Supplication</item>
+        <item>கல்வியும் அறிஞர்களின் சிறப்பும்</item>
+        <item>Looking For Love : The Right Way To Find A Spouse</item>
+        <item>கல்வி கற்பதன் ஒழுங்குகள்</item>
+        <item>அழகிய முறையில் அழைப்புப் பணி செய்வோம்</item>
+    </string-array>
+
+    <string-array name="OtherAuthorsNameArray">
+        <item>Shaykh Sa\'eed ibn \'Ali ibn Wahf al-Qahtaani</item>
+        <item>Shaykh Sa\'eed ibn \'Ali ibn Wahf al-Qahtaani</item>
+        <item>Shaykh K.Muhammad Iqbal Madani</item>
+        <item>Shaykh Bakr Abu Zayd</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Salih ibn Fawzan ibn al-Fawzan</item>
+        <item>Shaykh Salih ibn Fawzan ibn al-Fawzan</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Imâm Ibn Taymiyah</item>
+        <item>Imâm Ibn al-Jawzî</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Dr Abu Ameenah Bilal Philips</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Muhammad Mustafa al-Jibaly</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Muhammad \'Alî Ferkous</item>
+        <item>Shaykh AbdurRazzaq al-Badr</item>
+        <item>Imâm Ibn Qayyim al-Jawziyyah</item>
+        <item>Dr Abu Ameenah Bilal Philips</item>
+        <item>Imâm Ibn al-Jawzî</item>
+        <item>Sa\'eed ibn \'Ali ibn Wahf al-Qahtaani</item>
+        <item>Shaykh Abdul Aziz bin Abdullah ibn Baz</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Salafi Scholars</item>
+        <item>Imâm Ibn al-Jawzî</item>
+        <item>Imâm Ibn al-Jawzî</item>
+        <item>Shaykh Muhammad Salih al-Munajjid</item>
+        <item>Shaykh Muhammad Sa\'id Raslan</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Imâm Ibn Qayyim al-Jawziyyah</item>
+        <item>Shaykh Muhammad Mustafa al-Jibaly</item>
+        <item>Al Hafidh Ibn Rajab al-Hanbalee</item>
+        <item>Imâm Ibn Qayyim al-Jawziyyah</item>
+        <item>Shaykh AbdurRazzaq al-Badr</item>
+        <item>Shaykh Salih ibn Fawzan ibn al-Fawzan</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Ismail Salafi</item>
+        <item>Shaykh Ismail Salafi</item>
+    </string-array>
+
+    <string-array name="OtherPublishingHouseNameArray">
+        <item>Ministry of Islamic Affairs, KSA</item>
+        <item>Ministère des Affaires Islamiques, KSA</item>
+        <item>islamkalvi.com</item>
+        <item></item>
+        <item>Daar al-Watan Publishing House</item>
+        <item>IslamHouse</item>
+        <item>Association de Prédication Islamique pour la Jeunesse</item>
+        <item>IslamHouse</item>
+        <item>IslamHouse</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>Daar al-Watan Publishing House</item>
+        <item>5 Pillars Publishing</item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item>Madinah Publishers and Distributors</item>
+        <item>Al-Kitaab &amp; as-Sunnah Publishing</item>
+        <item></item>
+        <item>Al-Ibaanah</item>
+        <item>al-manhaj.com</item>
+        <item>Al-Hidaayah Publishing &amp; Distribution</item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item></item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item></item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item></item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item>salafimanhaj.com</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>Daar us-Sunnah Publishers</item>
+        <item>salafimanhaj.com</item>
+        <item></item>
+        <item>salafimanhaj.com</item>
+        <item>Al-Kitaab &amp; as-Sunnah Publishing</item>
+        <item>al-manhaj.com</item>
+        <item>Al-Firdous</item>
+        <item>King Fahd National Library Publication</item>
+        <item>IslamHouse</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array formatted="false" name="OtherLinksArray">
+        <item>https://www.dropbox.com/s/4zrxhbmfom63fgq/Hisnul-Muslim-English.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/d12ljuey24p86kf/la_citadelle_du_musulman.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/t4iy63x9qjl87cz/Hisnual_Muslim_with_Tamil_Meaning.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/qthajgefano7d7d/The%20Etiquette%20of%20Seeking%20Knowledge.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/knj5fmyvf184apm/The_Description_of_the_Prophet_Prayer.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/2ruv4yrlytau300/fr_Priere_Baz.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/n67caew806y0kii/fr_Alerts_on_the_provisions_of_the_competent_Palmwmanat.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/56xc2hcjvmxu70i/fr_RangFemmeIslam_Fawzan.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/xjz7qyv7nhsvqub/fr-Islamhouse-ConseilAuTabligh-Othaymine.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/0j5459k4rm9wmxq/en_Diseases_Of_The_Hearts_And_Their_Cures.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/mlqjguvgeizl82d/the-devil-s-deception-talbis-iblis.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/bfa21i1x8du50qg/en_The_Ruling_on_Magic.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/j0kclptv6u1qogv/The_Foundations_Of_The_Knowledge_Of_Usool.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/zl81jhp18b914p5/The%20Book%20Of%20Zakaah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/a03vzgy7tjqd8sq/en_The_Chennai_Treatise.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/m8d9pfo0ioufffw/Riba.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/x1fn9nm2vrtp7jr/beard.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/him03a9si4yrnef/the-etiquettes-of-marriage-and-wedding.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/101oxqjzk49qtl3/night_prayer.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/v6dnga6wilkvnmi/CollectionOfFatawa-Albani.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/zgpoez2gv0fq7ro/The%20Ill%20Effects%20of%20Sins.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/ebo7nefpn3dw9c9/Lecons_pour_la_oummah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/vc0bl5o5ju6ehq4/expier_peches_ferkous.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/iy16nsu23ay013e/en_Most_Excellent_Manner_of_Seeking_Forgiveness.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/m4nnc3h7049qge0/Characteristics%20of%20the%20Hypocrites.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/uu25lka7lc5bcd2/Funeral%20Rites.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/qca9meynipufwwl/Disciplining%20The%20Soul.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/yf1d1wcii1hbtgm/valeur_de_la_priere_Qahtani.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/vkxil49klmeupc2/Fatawa_Priere_Ibn_Baz2.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/62qpjnosudcqb8e/La_Fitnah_du_Takfir.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/qnrbv2jww8uw7qt/ScholarsOnISIS.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/25uc2i62aak8o0y/Sacred%20Knowledge.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/p1w9g5o6rutrb9e/Seeds%20of%20Admonishment%20and%20Reform.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/h7hct3j1vk0075v/Advice%20on%20Establishing%20an%20Islamic%20Home.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/p3t82a4g1qoi9xr/the-manners-of-the-knowledge-seeker.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/shlu78b0ag0xng8/Obligationofhijrah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/bt3y6sl20bp2wqj/Az_Zuhd.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/x4onbszl3draqj1/en_The_Dreamers_Handbook.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/na2iphccr1hdh04/en_the_ghurabah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/uqjlcnytr7han46/en_Waswasah.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/w8iynamre92klpk/en_Dhikr_and_Supplication.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/m71xkhndqx7qa33/ta_talab_el3alm.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/6uycknqg8tt7kix/Finding%20a%20spouse.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/lamyiv84z2m0r7d/%E0%AE%95%E0%AE%B2%E0%AF%8D%E0%AE%B5%E0%AE%BF%20%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AE%A9%E0%AF%8D%20%E0%AE%92%E0%AE%B4%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/g4jnapw7m2c2y1n/%E0%AE%85%E0%AE%B4%E0%AE%95%E0%AE%BF%E0%AE%AF%20%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%85%E0%AE%B4%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D%20%E0%AE%AA%E0%AE%A3%E0%AE%BF%20%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D.mp3?dl=1</item>
+    </string-array>
+
+    <string-array name="OtherLanguageArray">
+        <item>EN</item>
+        <item>FR</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+    </string-array>
+
+
+
+    <string-array name="OtherTypeArray">
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+    </string-array>
+
+</resources>

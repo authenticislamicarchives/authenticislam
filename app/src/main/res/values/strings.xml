@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Authentic Islam</string>
+
+    <string name="menu_aqeedah">Aqeedah</string>
+    <string name="menu_quran">Quran &amp; Tafsir</string>
+    <string name="menu_hadith">Hadith</string>
+    <string name="menu_history">Islamic History</string>
+    <string name="menu_other">Other</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_rate">Rate</string>
+    <string name="menu_about">About</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="txt_dev_mail">authenticislamicarchives@gmail.com</string>
+
+    <string name="txt_delete_file">Are you sure to delete </string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+
+    <string name="txt_rate">More good ratings about Authentic Islam will help it spread and being found in the Play Store inshaAllah. If you enjoy using it, please take a moment to rate it.</string>
+
+    <string name="txt_bismillah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ </string>
+
+    <string-array name="splash_screen_verses_ar">
+        <item>وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ [٢:٢٨٢]</item>
+        <item> وَقُل رَّبِّ زِدْنِي عِلْمًا [٢٠:١١٤]</item>
+        <item>قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ [٣٩:٩]</item>
+        <item>إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ [٣٥:٢٨]</item>
+        <item>شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ [٣:١٨]</item>
+        <item>يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ [٥٨:١١]</item>
+        <item>اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ [٩٦:١]</item>
+    </string-array>
+
+    <string-array name="splash_screen_verses_en">
+        <item>And fear Allah . And Allah teaches you [2:282]</item>
+        <item>but say, "O my Lord! advance me in knowledge" [20:114]</item>
+        <item>Say, "Are those who know equal to those who do not know?" [39:9]</item>
+        <item> Only those fear Allah , from among His servants, who have knowledge [35:28]</item>
+        <item>Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge [3:18]</item>
+        <item>Allah will raise those who have believed among you and those who were given knowledge, by degrees [58:11]</item>
+        <item>Read, in the name of your Lord who created [96:1]</item>
+    </string-array>
+
+    <string name="rate">Rate Authentic Islam</string>
+    <string name="rate_no">No, AlHamduliLlah</string>
+    <string name="rate_remind">Remind me later inshaAllah</string>
+    <string name="share">Share Authentic Islam</string>
+
+        <string name="txt_about">بسم الله الرحمن الرحيم
+        \n\n
+        All praise is due to Allah, we seek His help and His forgiveness. We seek refuge in Allah from the evil of our own souls and from our bad deeds.
+        Whomsoever Allah guides will never be led astray,and whomsoever Allah leaves astray, no one can guide.
+        I bear witness that there is none worthy of worship except Allah, and I bear witness that Muhammad is His slave and Messenger.\n
+        The truest of word is the Book of Allah سبحانه وتعالى‎ and the best of guidance is the guidance of Muhammad صلي الله عليه وسلم . The worst things are those that are  newly invented; every newly-invented thing is an innovation and every innovation is going astray, and every going astray is in the Fire.\n\n
+
+        Authentic Islam is a free islamic multimedia library for Android devices in order to spread the true message of Islam  بإذن الله by facilitating the access to authentic Islamic e-books and audios.\n\n
+
+        Allah سبحانه وتعالى‎ says in the Quran about the purpose of creation (s.51, v.56) : \"And I did not create the jinn and mankind except to worship Me.\".\n
+        So to fulfill this noble purpose we must worship Him alone, it means that acts of worship to Allah سبحانه وتعالى alone can bring us near Him.
+        But how can we worship Him without authentic knowledge ? Indeed, knowledge is the basic requirement for the acts of worship and
+        as the Messenger of Allah صلي الله عليه وسلم  told us, islamic knowledge is a way to paradise : \"Whoever takes a path upon which to obtain knowledge, Allah makes the path to Paradise easy for him.\"\n\n
+
+        In this application you will find many beneficial e-books and audio lectures by scholars, teachers, preachers from Ahlus Sunnah wal Jama\'a.\n\n
+
+        As the Messenger of Allah صلي الله عليه وسلم  taught us, we ask Allah for beneficial knowledge and seek refuge with Allah from knowledge that is of no benefit.\n
+        May Allah سبحانه وتعالى‎ accept this little effort as being solely for Him alone and add it to my scale of good deeds as well as the scale of all who will benefit from this app.\n
+
+        May Allah reward the people who supported me during difficult times when working on this project.\n\n
+
+        The books and audios present in my app are allowed for distribution and are reproduced faithfully without any kind of alteration or omission.\n\n
+
+        Abdul Basit\n\n
+
+        Authentic Islam - version 2.0\n\n
+        --\n\n
+        Tip : If you encounter any issues to open documents, I would suggest to use Adobe Acrobat for pdf files and VLC for audios
+        </string>
+
+    <string name="txt_ok">Ok</string>
+
+</resources>

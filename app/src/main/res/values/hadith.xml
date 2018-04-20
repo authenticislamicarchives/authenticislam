@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="HadithBooksNameArray">
+        <item>An-Nawawî\'s forty hadith</item>
+        <item>Riyad us-Saliheen - Le Jardin des Vertueux</item>
+        <item>Riyad us-Saliheen</item>
+        <item>Riyad us-Saliheen - The Garden of the Righteous </item>
+        <item>Sahih Bukhari - Vol.1 to Vol. 7</item>
+        <item>Al-Adab Al-Mufrad</item>
+        <item>Usool al Hadith</item>
+        <item>Les 40 hadiths Nawawî </item>
+        <item>Practical Introduction to the science of hadith</item>
+        <item>இமாம் புஹாரி - Imam Bukhari</item>
+        <item>ஹதீஸ் கலை ஓர்ஆய்வு - Science of hadith</item>
+    </string-array>
+
+    <string-array name="HadithAuthorsNameArray">
+        <item>Imâm Nawawî</item>
+        <item>Imâm Nawawî</item>
+        <item>Imâm Nawawî</item>
+        <item>Imâm Nawawî</item>
+        <item>Imâm Bukhâri</item>
+        <item>Imâm Bukhâri</item>
+        <item>Dr Abu Ameenah Bilal Philips</item>
+        <item>Imâm Nawawî</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+        <item>Shaykh Muhammad Mansoor Madani</item>
+    </string-array>
+
+    <string-array name="HadithPublishingHouseNameArray">
+        <item>International Islamic Federation of Student Organizations</item>
+        <item>Tawhid</item>
+        <item></item>
+        <item></item>
+        <item>Daya Islamic Media</item>
+        <item>UK Islamic Academy</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array  formatted="false" name="HadithLinksArray">
+        <item>https://www.dropbox.com/s/xtucvtxz7nclb1p/40%20Hadith%20of%20Imam%20Nawawi.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/94l8vmwvcpx8lnv/Riyad.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/qoex6k29pfps3bi/Riyad-Us-Saliheen-tamil.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/3pzkp6x8vac6pgj/RYADUSSALIHEEN.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/tewq9xoztie09uh/Sahih-bukari-tamil-full-7Vols-set-alhamdulillah-library.blogspot.in.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/evbm5lem7qdn57e/Adab%20Al-Mufrad%20-%20Imam%20Bukhari.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/sljv5arhmui4016/en_Usool_al-Hadith.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/g2msykma4teyln2/LES%2040%20HADITHS%20NAWAWI.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/4hqzmcr2sqc1ciu/Practical%20Introduction%20to%20the%20Science%20of%20Hadeeth%20-%20Tim%20Humble.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/2ebcl169ssaj96d/%E0%AE%87%E0%AE%AE%E0%AE%BE%E0%AE%AE%E0%AF%8D%20%E0%AE%AA%E0%AF%81%E0%AE%B9%E0%AE%BE%E0%AE%B0%E0%AE%BF%20-%20Imam%20Bukhari.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/ncws5p4czhbw2jt/%E0%AE%B9%E0%AE%A4%E0%AF%80%E0%AE%B8%E0%AF%8D%20%E0%AE%95%E0%AE%B2%E0%AF%88%20%E0%AE%93%E0%AE%B0%E0%AF%8D%E0%AE%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AF%81%20-%20Science%20of%20hadith.mp3?dl=1</item>
+    </string-array>
+
+    <string-array name="HadithLanguageArray">
+        <item>EN</item>
+        <item>FR</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>EN</item>
+        <item>TA</item>
+        <item>TA</item>
+    </string-array>
+
+    <string-array name="HadithTypeArray">
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+    </string-array>
+
+</resources>

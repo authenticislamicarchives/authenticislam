@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="QuranBooksNameArray">
+        <item>Quran</item>
+        <item>Quran (Tajwid)</item>
+        <item>Quran - English Translation</item>
+        <item>Quran - French Translation</item>
+        <item>Quran - Tamil translation</item>
+        <item>Forty hadith on the Quran</item>
+        <item>Scientific Truths in the Quran</item>
+        <item>An explanation of Introduction to the principles of Tafsir</item>
+        <item>The vertues of some Surahs</item>
+        <item>Quran recitation</item>
+        <item>Collection of Quran recitation </item>
+        <item>Quran recitation - Surah Aala Imran </item>
+    </string-array>
+
+    <string-array name="QuranAuthorsNameArray">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>The Quran project</item>
+        <item>The Quran project</item>
+        <item>Shaykh Muhammad ibn Salih al-Uthaymeen</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Muhammad Tim Humble</item>
+        <item>Shaykh Muhammad Naasir-ud-Deen al-Albanee</item>
+        <item>Shaykh Muhammad Sa\'id Raslan</item>
+    </string-array>
+
+    <string-array name="QuranPublishingHouseNameArray">
+        <item>The ministry of Islamic affairs (KSA)</item>
+        <item></item>
+        <item>The ministry of Islamic affairs (KSA)</item>
+        <item>The ministry of Islamic affairs (KSA)</item>
+        <item>The ministry of Islamic affairs (KSA)</item>
+        <item>The Quran project</item>
+        <item>The Quran project</item>
+        <item>Al-Hidaayah Publishing &amp; Distribution</item>
+        <item>Al Hujjah publications</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array  formatted="false" name="QuranLinksArray">
+        <item>https://www.dropbox.com/s/in43r8hi4ep0g6a/standard1-quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/it4ntcteg1iy48v/coran-moulawane.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/6apj9ph76y43mn5/quran_eng_ar.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/j8ebrefasuoqvnz/quran_fr_sa.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/ffrqtu4rv0xmsey/tamil-quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/s452gz8u8eulql7/40%20Hadith%20on%20the%20Quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/z42bnokpwblqb2p/Scientific%20Truths%20in%20The%20Quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/p48hvrgdrcn4d2m/Ibn%20Taymiyahs%20Principles%20of%20Tafseer.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/7j241fk18w3rirn/Vertues%20of%20some%20surahs%20of%20the%20Quran.pdf?dl=1</item>
+        <item>https://www.dropbox.com/s/6ifpew3xh87ulss/Quran%20Recitation%20-%20Ustadh%20Muhammad%20Tim%20Humble.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/isd1vx70wtlvz5y/Collection%20of%20Recitation%20of%20the%20Quran%20by%20Imaam%20Al%20Albaani%20%28RaheemuAllah%29.mp3?dl=1</item>
+        <item>https://www.dropbox.com/s/rit6c8xp8arpw1y/Shaykh%20Muhammad%20Rslan%20%20Recitation%20Surah%20Al%20Imraan.mp3?dl=1</item>
+    </string-array>
+
+
+    <string-array name="QuranLanguageArray">
+        <item>AR</item>
+        <item>AR</item>
+        <item>EN</item>
+        <item>FR</item>
+        <item>TA</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>AR</item>
+        <item>AR</item>
+        <item>AR</item>
+    </string-array>
+
+    <string-array name="QuranTypeArray">
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Book</item>
+        <item>Audio</item>
+        <item>Audio</item>
+        <item>Audio</item>
+    </string-array>
+
+
+</resources>
